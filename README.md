@@ -1,4 +1,4 @@
-## Gym Partner/Trainer Finder Website Proposal
+## Gym Partner/Trainer Finder Website
 
 ## Project Overview
 
