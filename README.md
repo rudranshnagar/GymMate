@@ -1,7 +1,3 @@
-# CS-546-Final-Project 
-# 99.77/100
----
-
 ## Gym Partner/Trainer Finder Website Proposal
 
 ## Project Overview
